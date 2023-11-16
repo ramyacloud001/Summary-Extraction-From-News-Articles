@@ -132,7 +132,7 @@ Using regex we just clean the data .using meta characters and spatial sequential
 
 ## Support
 
-For support, email saikamal9797@gmail.com .
+For support, email ramyasri.adepu1601@gmail.com .
 
 
 ## Acknowledgements
